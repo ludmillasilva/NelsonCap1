@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NelsonCap1</string>
+    <string name="hello_world">Hello World!</string>
+    <string name="main_button_toast">Exibir toast</string>
+</resources>
